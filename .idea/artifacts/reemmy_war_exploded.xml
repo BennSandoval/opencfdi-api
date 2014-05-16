@@ -1,0 +1,37 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="reemmy:war exploded">
+    <output-path>$PROJECT_DIR$/target/facturacion-1.0</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="reemmy/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="reemmy" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1" />
+          <element id="library" level="project" name="Maven: com.google.code.findbugs:jsr305:1.3.9" />
+          <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: com.google.appengine:appengine-api-1.0-sdk:1.9.4" />
+          <element id="library" level="project" name="Maven: com.google.appengine:appengine-endpoints:1.8.8" />
+          <element id="library" level="project" name="Maven: javax.jdo:jdo-api:3.0.1" />
+          <element id="library" level="project" name="Maven: javax.transaction:jta:1.1" />
+          <element id="library" level="project" name="Maven: net.sf.jsr107cache:jsr107cache:1.1" />
+          <element id="library" level="project" name="Maven: org.datanucleus:datanucleus-core:3.1.4" />
+          <element id="library" level="project" name="Maven: com.google.appengine.orm:datanucleus-appengine:2.1.2" />
+          <element id="library" level="project" name="Maven: org.datanucleus:datanucleus-enhancer:3.1.1" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm:4.0" />
+          <element id="library" level="project" name="Maven: org.datanucleus:datanucleus-api-jdo:3.1.3" />
+          <element id="library" level="project" name="Maven: com.google.guava:guava:r06" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.4" />
+          <element id="library" level="project" name="Maven: ca.juliusdavies:not-yet-commons-ssl:0.3.11" />
+          <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-ext-jdk15:1.45" />
+          <element id="library" level="project" name="Maven: com.sun.xml.bind:jaxb-xjc:2.2.6" />
+          <element id="library" level="project" name="Maven: xalan:xalan:2.7.1" />
+          <element id="library" level="project" name="Maven: xalan:serializer:2.7.1" />
+          <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.3.04" />
+          <element id="library" level="project" name="Maven: com.google.appengine:appengine-tools-sdk:1.8.8" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
